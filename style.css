@@ -1,0 +1,34 @@
+h3 {
+    color: blue;
+}
+#pg{
+    width: 80%;
+    margin-left: 150px ;
+}
+nav,ul,li{
+display: inline;
+}
+.g{
+   padding: 15px; 
+   height: 150px; 
+   width: 200px;
+}
+.a{
+    padding: 10px;
+    color: blue;
+}
+.b{
+    width: 400px;
+    height: 400px;
+}
+.c{
+    padding: 50px;
+}
+nav{
+    font-size: x-large;
+    background-color: orange;
+    color: black;
+}
+body{
+    background-color: beige;
+}
